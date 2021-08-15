@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, my name is Anna Chaykovsky
-#### I am a software developer and I have a B.Sc in Computer Science
-
-
 "𝑪𝒉𝒐𝒐𝒔𝒆 𝒂 𝒋𝒐𝒃 𝒚𝒐𝒖 𝒍𝒐𝒗𝒆, 𝒂𝒏𝒅 𝒚𝒐𝒖 𝒘𝒊𝒍𝒍 𝒏𝒆𝒗𝒆𝒓 𝒉𝒂𝒗𝒆 𝒕𝒐 𝒘𝒐𝒓𝒌 𝒂 𝒅𝒂𝒚 𝒊𝒏 𝒚𝒐𝒖𝒓 𝒍𝒊𝒇𝒆" - 𝒞ℴ𝓃𝒻𝓊𝒸𝒾𝓊𝓈
+
+### Hi there 👋, my name is Anna Chaykovsky
+
+#### I am a software developer and I have a B.Sc in Computer Science
 
 I'm passionate about coding since I was 12 and a real computer geek even before that!
 
