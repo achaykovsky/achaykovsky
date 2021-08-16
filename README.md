@@ -29,8 +29,8 @@ Skills: Java / Python / Machine Learning
 
 - 🔭 I’m currently working on a cool project! 
 - 🌱 I’m currently learning Deep Learning. 
-- 👯 I’m looking to collaborate on ML / NLP / DS projects.
-- 💬 Ask me about Maching Learning / NLP 
+- 👯 I’m looking to collaborate on ML / NLP / DL projects.
+- 💬 Ask me about Maching Learning / Deep Learning / Natural Langauge Proccessing. 
 - 📫 How to reach me: 	achaykovsky.career@gmail.com 
 - ⚡ Fun fact: I also love learn languages (real ones!) 
 
