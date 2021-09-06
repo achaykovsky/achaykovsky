@@ -25,12 +25,12 @@ I'm passionate about coding since I was 12 and a real computer geek even before 
 Strongly believe that a good software engineer loves and enjoys it!
 So that's what I do: I love to solve complex problems, using code.
 
-Skills: Java / Python / Machine Learning
+Skills: Java / Python / Software Engineering / Machine Learning
 
 - 🔭 I’m currently working on a cool project! 
 - 🌱 I’m currently learning Deep Learning. 
-- 👯 I’m looking to collaborate on ML / DL / NLP projects.
-- 💬 Ask me about Maching Learning / Deep Learning / Natural Langauge Proccessing. 
+- 👯 I’m looking to collaborate on Software Engineering / ML / DL / NLP projects.
+- 💬 Ask me about Software Engineering / Maching Learning / Deep Learning / Natural Langauge Proccessing. 
 - 📫 How to reach me: 	achaykovsky.career@gmail.com 
 - ⚡ Fun fact: I also love learn languages (real ones!) 
 
