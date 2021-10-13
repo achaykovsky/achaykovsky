@@ -32,7 +32,7 @@ Skills: Java / Python / Software Engineering / Machine Learning
 - 👯 I’m looking to collaborate on Software Engineering / ML / DL / NLP projects.
 - 💬 Ask me about Software Engineering / Maching Learning / Deep Learning / Natural Langauge Proccessing. 
 - 📫 How to reach me: 	achaykovsky.career@gmail.com 
-- ⚡ Fun fact: I also love learn languages (real ones!) 
+- ⚡ Fun fact: I also love learning languages, and I speak Hebrew, Russian, and English fluently, as well as studying Spanish, Idish, and Korean.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/achaykovsky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anna-chaykovsky/)  
