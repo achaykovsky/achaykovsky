@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, my name is Anna Chaykovsky
 
-#### I am a software developer and I have a B.Sc in Computer Science
+#### I am a software developer and I have a B.Sc in Computer Science.
 
-I'm passionate about coding since I was 12 and a real computer geek even before that!
+#### Over the past two years, I have been working as a Backend Engineer in Python and in a wide variety of AWS services.
+
+I've been passionate about coding since I was 12 and a real computer geek even before that!
 
 Strongly believe that a good software engineer loves and enjoys it!
 So that's what I do: I love to solve complex problems, using code.
@@ -28,9 +30,9 @@ So that's what I do: I love to solve complex problems, using code.
 Skills: Java / Python / Software Engineering / Machine Learning
 
 - 🔭 I’m currently working on a cool project! 
-- 🌱 I’m currently learning Deep Learning. 
+- 🌱 I’m currently expanding my knowledge in Docker and K8S.
 - 👯 I’m looking to collaborate on Software Engineering / ML / DL / NLP projects.
-- 💬 Ask me about Software Engineering / Maching Learning / Deep Learning / Natural Langauge Proccessing. 
+- 💬 Ask me about Software Engineering / Machine Learning / Deep Learning / Natural language processing. 
 - 📫 How to reach me: 	achaykovsky.career@gmail.com 
 - ⚡ Fun fact: I also love learning languages, and I speak Hebrew, Russian, and English fluently, as well as studying Spanish, Yiddish, and Korean.
 
