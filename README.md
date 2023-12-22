@@ -30,7 +30,7 @@ So that's what I do: I love to solve complex problems, using code.
 Skills: Java / Python / Software Engineering / Machine Learning
 
 - 🔭 I’m currently working on a cool project! 
-- 🌱 I’m currently expanding my knowledge in Docker and K8S.
+- 🌱 I’m currently expanding my knowledge on Docker and K8S.
 - 👯 I’m looking to collaborate on Software Engineering / ML / DL / NLP projects.
 - 💬 Ask me about Software Engineering / Machine Learning / Deep Learning / Natural language processing. 
 - 📫 How to reach me: 	achaykovsky.career@gmail.com 
