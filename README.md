@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### I am a software developer and I have a B.Sc in Computer Science.
 
-#### Over the past two years, I have been working as a Backend Engineer in Python and in a wide variety of AWS services.
+#### Over the past two years, I have been working as a Backend Engineer in Python and a wide variety of AWS services.
 
 I've been passionate about coding since I was 12 and a real computer geek even before that!
 
@@ -34,7 +34,7 @@ Skills: Java / Python / Software Engineering / Machine Learning
 - 👯 I’m looking to collaborate on Software Engineering / ML / DL / NLP projects.
 - 💬 Ask me about Software Engineering / Machine Learning / Deep Learning / Natural language processing. 
 - 📫 How to reach me: 	achaykovsky.career@gmail.com 
-- ⚡ Fun fact: I also love learning languages, and I speak Hebrew, Russian, and English fluently, as well as studying Spanish, Yiddish, and Korean.
+- ⚡ Fun fact: I also love learning languages, and I speak Hebrew, Russian, and English fluently, as well as studying Spanish, Korean and Yiddish.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/achaykovsky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anna-chaykovsky/)  
