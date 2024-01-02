@@ -32,9 +32,9 @@ Skills: Java / Python / Software Engineering / Machine Learning
 - 🔭 I’m currently working on a cool project! 
 - 🌱 I’m currently expanding my knowledge on Docker and K8S.
 - 👯 I’m looking to collaborate on Software Engineering / ML / DL / NLP projects.
-- 💬 Ask me about Software Engineering / Machine Learning / Deep Learning / Natural language processing. 
+- 💬 Ask me about Software Engineering / Machine Learning / Deep Learning / Natural Language Processing. 
 - 📫 How to reach me: 	achaykovsky.career@gmail.com 
-- ⚡ Fun fact: I also love learning languages, and I speak Hebrew, Russian, and English fluently, as well as studying Spanish, Korean and Yiddish.
+- ⚡ Fun fact: I also love learning languages, and I speak Hebrew, Russian, and English fluently, as well as studying Spanish, Korean, and Yiddish.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/achaykovsky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anna-chaykovsky/)  
