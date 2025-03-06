@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### I am a software developer and I have a B.Sc in Computer Science.
 
-#### Over the past two years, I have been working as a Backend Engineer in Python and a wide variety of AWS services.
+#### Over the past almost three years, I have been working as a Backend Engineer in Python and a wide variety of AWS services.
 
 I've been passionate about coding since I was 12 and a real computer geek even before that!
 
