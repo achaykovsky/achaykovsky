@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 I've been passionate about coding since I was 12 and a real computer geek even before that!
 
 Strongly believe that a good software engineer loves and enjoys it!
+
 So that's what I do: I love to solve complex problems, using code.
 
 Skills: Python / Go / Java / Software Engineering / Machine Learning
