@@ -1,43 +1,76 @@
-
 <!--
 **achaykovsky/achaykovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-"𝑪𝒉𝒐𝒐𝒔𝒆 𝒂 𝒋𝒐𝒃 𝒚𝒐𝒖 𝒍𝒐𝒗𝒆, 𝒂𝒏𝒅 𝒚𝒐𝒖 𝒘𝒊𝒍𝒍 𝒏𝒆𝒗𝒆𝒓 𝒉𝒂𝒗𝒆 𝒕𝒐 𝒘𝒐𝒓𝒌 𝒂 𝒅𝒂𝒚 𝒊𝒏 𝒚𝒐𝒖𝒓 𝒍𝒊𝒇𝒆" - 𝒞ℴ𝓃𝒻𝓊𝒸𝒾𝓊𝓈
+### Hi 👋 I’m Anna Chaykovsky
 
-### Hi there 👋, my name is Anna Chaykovsky
+**Backend Engineer | Cloud & AI-Driven Development | Python & Go**
 
-#### I am a software developer and I have a B.Sc in Computer Science.
+With about 3 years of industry experience, I’ve been building software since I was a kid — what started as curiosity turned into a career centered around backend engineering, cloud architectures, and (lately) practical applications of AI and ML in real systems.
 
-#### Over the past almost three years, I have been working as a Backend Engineer in Python and a wide variety of AWS services.
+---
 
-I've been passionate about coding since I was 12 and a real computer geek even before that!
+### 🔭 What I’m working on now  
+I build backend services in **Python** and **Go**, with a strong focus on **AWS**, clean architecture, security, and maintainability.  
+My recent projects combine backend engineering with **AI-assisted tooling**, automation, and early-stage ML/NLP exploration.
 
-Strongly believe that a good software engineer loves and enjoys it!
+Examples from my repos include:  
+- **Backend microservices** (FastAPI, SQLAlchemy, Postgres, Docker)  
+- **Cloud-native components** (AWS Lambda, S3 pipelines, event-driven systems)  
+- **Data tools & personal utilities** (portfolio analytics, stream processing, automations)  
+- **Explorations into ML/NLP** and AI-powered developer workflows  
 
-So that's what I do: I love to solve complex problems, using code.
+---
 
-Skills: Python / Go / Java / Software Engineering / Machine Learning
+### 🤖 AI Tools I Actively Use  
+I integrate AI into my daily development workflow to improve speed, readability, and code quality:
 
-- 🔭 I’m currently working on a cool project! 
-- 🌱 I’m currently expanding my knowledge on K8S.
-- 👯 I’m looking to collaborate on Software Engineering / ML / DL / NLP projects.
-- 💬 Ask me about Software Engineering / Machine Learning / Deep Learning / Natural Language Processing. 
-- 📫 How to reach me: 	achaykovsky.career@gmail.com 
-- ⚡ Fun fact: I also love learning languages, and I speak Hebrew, Russian, and English fluently, as well as studying Spanish, Korean, and Yiddish.
+- **GitHub Copilot** — for rapid prototyping, refactors, tests, and documentation  
+- **Cursor** — for context-aware suggestions, repo-wide reasoning, and faster iteration  
+- **AI-powered code review & static analysis** — keeping code clean, secure, and consistent  
+- Experimenting with **ML/NLP** to understand how to embed AI capabilities into backend systems  
 
+AI doesn’t replace engineering fundamentals — I use it to **amplify** them.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/achaykovsky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anna-chaykovsky/)  
+---
 
+### 🌱 What I’m learning  
+To grow as a backend engineer with strong AI capabilities, I’m currently focused on:
 
+- Machine Learning fundamentals  
+- Deep Learning & NLP (practical, applied use cases)  
+- Cloud-native ML patterns and MLOps  
+- Distributed systems, observability, and production-ready design  
+- Clean architecture & testing best practices  
+
+---
+
+### 🛠 Tech stack I work with  
+**Languages:** Python, Go  
+**Cloud:** AWS (Lambda, S3, Redis, EventBridge)  
+**Data / ML:** Pandas, NumPy, baseline ML workflows, real-world experimentation  
+**Dev Tools:** Docker, GitHub Actions, Cursor, Copilot, pytest  
+**Practices:** Clean code, TDD, security-first development, performance-minded design  
+
+---
+
+### 💡 I’m interested in collaborating on  
+- Backend systems enhanced with ML or AI-driven logic  
+- Data-driven products and smart automation  
+- Developer tools, AI-powered workflows, or cloud infrastructure projects  
+
+---
+
+### 📫 Contact  
+Email: achaykovsky.career@gmail.com  
+LinkedIn: https://www.linkedin.com/in/anna-chaykovsky/
+
+---
+
+### ⚡ Fun fact  
+I also love learning languages, and I speak Hebrew, Russian, and English fluently, as well as studying Spanish, Korean, and Yiddish.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/achaykovsky)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anna-chaykovsky/)
+
+---
