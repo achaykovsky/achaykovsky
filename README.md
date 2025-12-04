@@ -32,13 +32,6 @@ AI doesn’t replace engineering fundamentals — it **amplifies** them.
 - Cloud-native ML patterns / MLOps  
 - Distributed systems, observability, and production-focused design  
 
-### 🛠 Tech stack  
-**Languages:** Python, Go  
-**Cloud:** AWS (Lambda, S3, Redis, EventBridge)  
-**Data / ML:** Pandas, NumPy, experimental ML workflows  
-**Tools:** Docker, GitHub Actions, Cursor, Copilot, pytest  
-**Practices:** Clean code, testing, security-first development  
-
 ### 💡 Collaboration interests  
 - Backend systems enhanced with ML/AI  
 - Data-driven products and automation  
