@@ -6,8 +6,7 @@
 
 **Backend Engineer | Cloud & AI-Assisted Development | Python & Go**
 
-With about 3 years of industry experience, I’ve been building software since I was 12.  
-I focus on backend engineering, cloud architectures, and expanding my knowledge in AI/ML through hands-on learning and exploratory projects.
+With about 3 years of industry experience, I’ve been building software since I was 12 — what began as curiosity grew into a profession centered on backend engineering, cloud architectures, and ongoing exploration of AI/ML.
 
 ### 🔭 What I’m working on  
 I build backend services in **Python** and **Go** with emphasis on **AWS**, clean architecture, security, and automation.
@@ -51,4 +50,3 @@ I love learning languages — I speak Hebrew, Russian, and English, and I’m st
 ### 📫 Contact  
 Email: achaykovsky.career@gmail.com  
 LinkedIn: https://www.linkedin.com/in/anna-chaykovsky/
-
