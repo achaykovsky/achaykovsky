@@ -49,4 +49,5 @@ I love learning languages — I speak Hebrew, Russian, and English, and I’m st
 
 ### 📫 Contact  
 Email: achaykovsky.career@gmail.com  
+
 LinkedIn: https://www.linkedin.com/in/anna-chaykovsky/
