@@ -9,8 +9,6 @@
 With about 3 years of industry experience, I’ve been building software since I was 12.  
 I focus on backend engineering, cloud architectures, and expanding my knowledge in AI/ML through hands-on learning and exploratory projects.
 
----
-
 ### 🔭 What I’m working on  
 I build backend services in **Python** and **Go** with emphasis on **AWS**, clean architecture, security, and automation.
 
@@ -19,8 +17,6 @@ Recent work includes:
 - Cloud-native components (AWS Lambda, S3 pipelines, event-driven systems)  
 - Data tools & personal utilities (portfolio analytics, stream processing, automations)  
 - Early ML/NLP experimentation and AI-augmented workflows  
-
----
 
 ### 🤖 AI tools I actively use  
 I integrate AI into my development workflow to improve speed, readability, and code quality:
@@ -31,15 +27,11 @@ I integrate AI into my development workflow to improve speed, readability, and c
 
 AI doesn’t replace engineering fundamentals — it **amplifies** them.
 
----
-
 ### 🌱 Currently learning  
 - Machine Learning & Deep Learning fundamentals  
 - NLP concepts and practical experimentation  
 - Cloud-native ML patterns / MLOps  
 - Distributed systems, observability, and production-focused design  
-
----
 
 ### 🛠 Tech stack  
 **Languages:** Python, Go  
@@ -48,22 +40,15 @@ AI doesn’t replace engineering fundamentals — it **amplifies** them.
 **Tools:** Docker, GitHub Actions, Cursor, Copilot, pytest  
 **Practices:** Clean code, testing, security-first development  
 
----
-
 ### 💡 Collaboration interests  
 - Backend systems enhanced with ML/AI  
 - Data-driven products and automation  
 - Developer tools and cloud infrastructure projects  
 
----
-
 ### 📫 Contact  
 Email: achaykovsky.career@gmail.com  
 LinkedIn: https://www.linkedin.com/in/anna-chaykovsky/
 
----
-
 ### ⚡ Fun fact  
 I love learning languages — I speak Hebrew, Russian, and English, and I’m studying Spanish, Korean, and Yiddish.
 
----
