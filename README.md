@@ -45,10 +45,10 @@ AI doesn’t replace engineering fundamentals — it **amplifies** them.
 - Data-driven products and automation  
 - Developer tools and cloud infrastructure projects  
 
+### ⚡ Fun fact  
+I love learning languages — I speak Hebrew, Russian, and English, and I’m studying Spanish, Korean, and Yiddish.
+
 ### 📫 Contact  
 Email: achaykovsky.career@gmail.com  
 LinkedIn: https://www.linkedin.com/in/anna-chaykovsky/
-
-### ⚡ Fun fact  
-I love learning languages — I speak Hebrew, Russian, and English, and I’m studying Spanish, Korean, and Yiddish.
 
